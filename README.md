@@ -1,2 +1,2 @@
 # ECG_data
-This is for class submission
+This is my ECG data.
